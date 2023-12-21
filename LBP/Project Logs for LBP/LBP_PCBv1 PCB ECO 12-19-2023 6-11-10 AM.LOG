@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=R7-2
+Added Pin To Net: NetName=NetC3_2 Pin=R7-2
+Change Net Color : Old Net Color=Aqua New Net Color=Default
+Change Net Color : Old Net Color=RGB(22, 79, 59) New Net Color=Default
+Added Member To Class: ClassName=LBP Member=Component C3 2.2uF 50V

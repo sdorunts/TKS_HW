@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetDA1_2 Pin=R5-2
+Removed Pin From Net: NetName=NetR4_2 Pin=R5-3
+Removed Pin From Net: NetName=NetC3_2 Pin=R7-1
+Removed Pin From Net: NetName=NetC1_1 Pin=R7-2
+Removed Pin From Net: NetName=NetC1_1 Pin=R7-3
+Removed Member From Class: ClassName=LBP Member=R11
+Removed Member From Class: ClassName=LBP Member=R12
+Change Component Comment : Designator=R4 Old Comment=?k New Comment=4.7k
+Change Component Comment : Designator=O2 Old Comment=T1 New Comment=24VAC
+Change Component Comment : Designator=O3 Old Comment=T1 New Comment=24VAC
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Added Component: Designator=RP1(16K1)
+Added Component: Designator=RP2(16K1)
+Added Pin To Net: NetName=NetDA1_2 Pin=RP1-2
+Added Pin To Net: NetName=NetR4_2 Pin=RP1-3
+Added Pin To Net: NetName=NetC3_2 Pin=RP2-1
+Added Pin To Net: NetName=NetC1_1 Pin=RP2-2
+Added Pin To Net: NetName=NetC1_1 Pin=RP2-3
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=RP1-1
+Added Net: Name=NetR6_2
+Change Class Name : Old Net Name=LBP New Net Name=?3
+Added Member To Class: ClassName=?3 Member=Component RP1 500
+Added Member To Class: ClassName=?3 Member=Component RP2 10k

@@ -1,0 +1,100 @@
+Added Component: Designator=C1(ECAP 100uF 50V)
+Added Component: Designator=C2(ECAP 4700uF 50V)
+Added Component: Designator=C3(ECAP 2.2uF 50V)
+Added Component: Designator=C4(CAP 220pF)
+Added Component: Designator=DA1(Dip14)
+Added Component: Designator=O1(Connection Pad)
+Added Component: Designator=O2(Connection Pad)
+Added Component: Designator=O3(Connection Pad)
+Added Component: Designator=O4(Connection Pad)
+Added Component: Designator=R1(Res 0.125W)
+Added Component: Designator=R2(Res 0.125W)
+Added Component: Designator=R3(Res 0.125W)
+Added Component: Designator=R4(Res 0.125W)
+Added Component: Designator=R5(16K1)
+Added Component: Designator=R6(Res 0.125W)
+Added Component: Designator=R7(16K1)
+Added Component: Designator=R8(Res 0.125W)
+Added Component: Designator=R9(Res 0.125W)
+Added Component: Designator=R10(Res 0.125W)
+Added Component: Designator=R11(Res 0.125W)
+Added Component: Designator=R12(Res 2W)
+Added Component: Designator=VD1(KBL)
+Added Component: Designator=VT1(TO-247)
+Added Component: Designator=VT2(TO-126)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C3-1
+Added Pin To Net: NetName=NetC1_1 Pin=C3-1
+Added Pin To Net: NetName=NetC1_1 Pin=O1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R2-1
+Added Pin To Net: NetName=NetC1_1 Pin=R3-1
+Added Pin To Net: NetName=NetC1_1 Pin=R7-1
+Added Pin To Net: NetName=NetC1_1 Pin=R7-2
+Added Pin To Net: NetName=NetC1_1 Pin=VT1-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=DA1-7
+Added Pin To Net: NetName=NetC1_2 Pin=O4-1
+Added Pin To Net: NetName=NetC1_2 Pin=R8-1
+Added Pin To Net: NetName=NetC1_2 Pin=R9-1
+Added Pin To Net: NetName=NetC1_2 Pin=R11-1
+Added Pin To Net: NetName=NetC1_2 Pin=R12-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=DA1-12
+Added Pin To Net: NetName=NetC2_1 Pin=R1-1
+Added Pin To Net: NetName=NetC2_1 Pin=VD1-1
+Added Pin To Net: NetName=NetC2_1 Pin=VT1-2
+Added Pin To Net: NetName=NetC2_1 Pin=VT2-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=DA1-3
+Added Pin To Net: NetName=NetC2_2 Pin=R12-1
+Added Pin To Net: NetName=NetC2_2 Pin=VD1-4
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=R7-3
+Added Pin To Net: NetName=NetC3_2 Pin=R10-1
+Added Pin To Net: NetName=NetC3_2 Pin=R11-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=DA1-4
+Added Pin To Net: NetName=NetC4_1 Pin=R10-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=DA1-13
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetDA1_2 Pin=DA1-2
+Added Pin To Net: NetName=NetDA1_2 Pin=R5-2
+Added Net: Name=NetDA1_2
+Added Pin To Net: NetName=NetDA1_5 Pin=DA1-5
+Added Pin To Net: NetName=NetDA1_5 Pin=R6-1
+Added Pin To Net: NetName=NetDA1_5 Pin=R9-2
+Added Net: Name=NetDA1_5
+Added Pin To Net: NetName=NetDA1_6 Pin=DA1-6
+Added Pin To Net: NetName=NetDA1_6 Pin=R4-1
+Added Pin To Net: NetName=NetDA1_6 Pin=R6-2
+Added Net: Name=NetDA1_6
+Added Pin To Net: NetName=NetDA1_10 Pin=DA1-10
+Added Pin To Net: NetName=NetDA1_10 Pin=R3-2
+Added Net: Name=NetDA1_10
+Added Pin To Net: NetName=NetDA1_11 Pin=DA1-11
+Added Pin To Net: NetName=NetDA1_11 Pin=R1-2
+Added Pin To Net: NetName=NetDA1_11 Pin=VT2-1
+Added Net: Name=NetDA1_11
+Added Pin To Net: NetName=NetO2_1 Pin=O2-1
+Added Pin To Net: NetName=NetO2_1 Pin=VD1-2
+Added Net: Name=NetO2_1
+Added Pin To Net: NetName=NetO3_1 Pin=O3-1
+Added Pin To Net: NetName=NetO3_1 Pin=VD1-3
+Added Net: Name=NetO3_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=VT1-1
+Added Pin To Net: NetName=NetR2_2 Pin=VT2-3
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-3
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R8-2
+Added Net: Name=NetR5_1
+Added Class: Name=LBP

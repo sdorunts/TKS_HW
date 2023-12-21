@@ -1,0 +1,24 @@
+Change Physical Footprint: Designator=C1 Old Footprint=ECAP 100uF 50V New Footprint=ECAP 100uF 50V
+Change Physical Footprint: Designator=C2 Old Footprint=ECAP 4700uF 50V New Footprint=ECAP 4700uF 50V
+Change Physical Footprint: Cannot match pads with new footprint in component :C3 Footprint:ECAP 2.2uF 50V
+Change Physical Footprint: Designator=C4 Old Footprint=CAP 220pF New Footprint=CAP 220pF
+Change Physical Footprint: Designator=DA1 Old Footprint=Dip14 New Footprint=Dip14
+Change Physical Footprint: Designator=O1 Old Footprint=Connection Pad New Footprint=Connection Pad
+Change Physical Footprint: Designator=O2 Old Footprint=Connection Pad New Footprint=Connection Pad
+Change Physical Footprint: Designator=O3 Old Footprint=Connection Pad New Footprint=Connection Pad
+Change Physical Footprint: Designator=O4 Old Footprint=Connection Pad New Footprint=Connection Pad
+Change Physical Footprint: Designator=R1 Old Footprint=Res 0.125W New Footprint=Res 0.125W
+Change Physical Footprint: Designator=R2 Old Footprint=Res 0.125W New Footprint=Res 0.125W
+Change Physical Footprint: Designator=R3 Old Footprint=Res 0.125W New Footprint=Res 0.125W
+Change Physical Footprint: Designator=R4 Old Footprint=Res 0.125W New Footprint=Res 0.125W
+Change Physical Footprint: Designator=R5 Old Footprint=16K1 New Footprint=16K1
+Change Physical Footprint: Designator=R6 Old Footprint=Res 0.125W New Footprint=Res 0.125W
+Change Physical Footprint: Designator=R7 Old Footprint=16K1 New Footprint=16K1
+Change Physical Footprint: Designator=R8 Old Footprint=Res 0.125W New Footprint=Res 0.125W
+Change Physical Footprint: Designator=R9 Old Footprint=Res 0.125W New Footprint=Res 0.125W
+Change Physical Footprint: Designator=R10 Old Footprint=Res 0.125W New Footprint=Res 0.125W
+Change Physical Footprint: Designator=R11 Old Footprint=Res 0.125W New Footprint=Res 0.125W
+Change Physical Footprint: Designator=R12 Old Footprint=Res 2W New Footprint=Res 2W
+Change Physical Footprint: Designator=VD1 Old Footprint=KBL New Footprint=KBL
+Change Physical Footprint: Designator=VT1 Old Footprint=TO-247 New Footprint=TO-247
+Change Physical Footprint: Designator=VT2 Old Footprint=TO-126 New Footprint=TO-126
